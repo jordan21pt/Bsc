@@ -1,2 +1,2 @@
 # Bsc
-Place where I store information about bsc lectures
+Place where I store information about CS Bsc lectures
